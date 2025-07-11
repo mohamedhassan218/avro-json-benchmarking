@@ -1,0 +1,9 @@
+Running benchmark with 1,000,000 iterations...
+
+JSON - Serialization: 195.537 ms
+JSON - Deserialization: 401.769 ms
+JSON Payload Size: 27 bytes
+
+Avro - Serialization: 92.333 ms
+Avro - Deserialization: 87.141 ms
+Avro Payload Size: 9 bytes
