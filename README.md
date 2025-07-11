@@ -7,7 +7,7 @@ It repeatedly (1,000,000 times) encodes and decodes a sample object using each f
 This is a simple yet effective experiment to gain insights into how different data serialization methods behave under high-load scenarios, especially in use cases involving data transfer or storage in distributed systems.
 
 I've written an article that breaks down those base-level differences in detail.
-You can find it [here](htttps://example.com)
+You can find it [here](https://medium.com/@m.hassan.def/why-json-is-slower-than-avro-248624685d87)
 
 ## How to Use?
 
