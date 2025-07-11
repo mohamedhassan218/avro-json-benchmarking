@@ -1,0 +1,7 @@
+@namespace("com.example")
+protocol UserProtocol {
+  record User {
+    string name;
+    int age;
+  }
+}
